@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://fresenius-my.sharepoint.com/personal/mohamed_abdellatif_fmc-ag_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fmohamed%5Fabdellatif%5Ffmc%2Dag%5Fcom%2FDocuments%2FMSIX%2FMSIX%5Fx86%2Eappinstaller"
+	Uri="https://github.com/hatem188/test/blob/d88daa05f190af5325f512d64db4367a317e5d79/Test.appinstaller"
 	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="Test-MSIX"
 		Version="1.0.1.0"
 		Publisher="CN=Hatem"
-		Uri="https://fresenius-my.sharepoint.com/personal/mohamed_abdellatif_fmc-ag_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fmohamed%5Fabdellatif%5Ffmc%2Dag%5Fcom%2FDocuments%2FMSIX%2FTest%2Emsix"
+		Uri="https://github.com/hatem188/test/blob/d88daa05f190af5325f512d64db4367a317e5d79/Test.msix"
 		ProcessorArchitecture="x86" />
 	<UpdateSettings>
 		<OnLaunch
