@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://fresenius-my.sharepoint.com/personal/mohamed_abdellatif_fmc-ag_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fmohamed%5Fabdellatif%5Ffmc%2Dag%5Fcom%2FDocuments%2FMSIX%2FMSIX%5Fx86%2Eappinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainPackage
+		Name="Test-MSIX"
+		Version="1.0.1.0"
+		Publisher="CN=Hatem"
+		Uri="https://fresenius-my.sharepoint.com/personal/mohamed_abdellatif_fmc-ag_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fmohamed%5Fabdellatif%5Ffmc%2Dag%5Fcom%2FDocuments%2FMSIX%2FTest%2Emsix"
+		ProcessorArchitecture="x86" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
