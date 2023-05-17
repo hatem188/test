@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018" Version="2.0.0.0" Uri="\\server\foo\Test.appinstaller">
+  <MainPackage Name="Test-MSIX" Publisher="CN=Hatem" Version="1.0.0.0" ProcessorArchitecture="x86" Uri="\\server\foo\Test.msix"/>
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0"/>
+  </UpdateSettings>
+</AppInstaller>
